@@ -20,8 +20,11 @@ Ideal for web developers and SEO specialists looking to understand and improve t
 
 # Libraries:
 1, puppeteer: A Node library that provides a high-level API to control headless Chrome or Chromium browsers.
+
 2, fs: The built-in Node.js file system module, used for reading from and writing to the file system.
+
 3, lighthouse: An open-source, automated tool for improving the quality of web pages. In your script, it's used to analyze and get metrics related to layout shifts.
-    
+
+# Install Libraries    
 npm install puppeteer lighthouse
 
